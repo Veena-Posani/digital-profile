@@ -1,7 +1,7 @@
 ### Veena Posani
 ------------------------
 #### About:
--I am Posani Veena studying in RVR&JC College Of Enginering 
+- I am Posani Veena studying in RVR&JC College Of Enginering 
 
 #### Personal Details:
 - **NAME:** Posani Veena
