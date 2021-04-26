@@ -20,16 +20,16 @@
   - Year-3
   - CGPA:7.99
 - **Intermediate**
-- Sri chaitanya girls junior college
-- Vijawada,AP,India
-- MPC
-- Board:state
-- Percentage:95.9
+    - Sri chaitanya girls junior college
+    - Vijawada,AP,India
+    - MPC
+    - Board:state
+    - Percentage:95.9
 - **SSC**
-- Sri chaitanya techno school
-- Guntur,AP,India
-- Board:state
-- CGPA:9.3
+    - Sri chaitanya techno school
+    - Guntur,AP,India
+    - Board:state
+    - CGPA:9.3
 #### Techical Skills:
 - C language
 - Python
