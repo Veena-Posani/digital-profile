@@ -19,13 +19,13 @@
   - CSE
   - Year-3
   - CGPA:7.99
-**Intermediate**
+- **Intermediate**
 - Sri chaitanya girls junior college
 - Vijawada,AP,India
 - MPC
 - Board:state
 - Percentage:95.9
-**SSC**
+- **SSC**
 - Sri chaitanya techno school
 - Guntur,AP,India
 - Board:state
